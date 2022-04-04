@@ -1,0 +1,23 @@
+.li {
+  position: relative;
+  color: white;
+  height: 30px;
+  width: 300px;
+  background-color: blueviolet;
+  margin-top: 10px;
+  margin-left: -40px;
+  padding-left: 10px;
+  border-radius: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  height: auto;
+}
+
+.delete {
+  margin-left: 150px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}

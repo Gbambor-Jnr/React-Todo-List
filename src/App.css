@@ -1,0 +1,6 @@
+.app-container {
+  display: grid;
+  /* flex-direction: column; */
+  justify-content: center;
+  margin-top: 30px;
+}

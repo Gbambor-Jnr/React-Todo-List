@@ -1,0 +1,14 @@
+.btn {
+  height: 2rem;
+  width: 100px;
+  margin-top: 10px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+input {
+  border-radius: 1rem;
+  height: 40px;
+  width: 100%;
+  outline: none;
+}
